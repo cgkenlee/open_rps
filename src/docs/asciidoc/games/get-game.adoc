@@ -1,0 +1,18 @@
+= Games
+:toc: left
+
+== Get a game by id (Not played game)
+
+operation::games/get-game/1[]
+
+== Get a game by id (Cheated game)
+
+operation::games/get-game/2[snippets='http-response,links']
+
+== Get a game by id (Played game)
+
+operation::games/get-game/3[snippets='http-response,links']
+
+== Enums
+
+operation::games/get-game/1/enum[]

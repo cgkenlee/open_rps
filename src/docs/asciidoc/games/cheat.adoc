@@ -1,0 +1,11 @@
+= Games
+:toc: left
+
+== Cheat a game
+Reveal opponent's hand
+
+operation::games/cheat[]
+
+== Enums
+
+operation::games/cheat/enum[]

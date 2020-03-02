@@ -1,0 +1,10 @@
+= Games
+:toc: left
+
+== Update a game
+
+operation::games/update-game[]
+
+== Enums
+
+operation::games/update-game/enum[]

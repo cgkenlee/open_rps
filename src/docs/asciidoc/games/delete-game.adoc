@@ -1,0 +1,6 @@
+= Games
+:toc: left
+
+== Delete a game
+
+operation::games/delete-game[]

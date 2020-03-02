@@ -1,0 +1,10 @@
+= Games
+:toc: left
+
+== Create a new game
+
+operation::games/create-game[]
+
+== Enums
+
+operation::games/create-game/enum[]
